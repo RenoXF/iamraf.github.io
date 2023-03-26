@@ -28,7 +28,7 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address
         background: #ffffff;
         margin: 30px auto;
         animation-name: colors;
-        animation: colors 1s infinite;
+        animation: colors 0.8s infinite;
     }
     
     .mainDetails {
@@ -36,7 +36,7 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address
         border-bottom: 2px solid #cf8a05;
         background: #e3e3e3;
         animation-name: colors;
-        animation: colors 1s infinite;
+        animation: colors 0.8s infinite;
     }
     
     @keyframes colors {
@@ -81,17 +81,17 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address
         height: auto;
         -webkit-border-radius: 50px;
         border-radius: 50px;
-        -webkit-transition: -webkit-transform 0.8s ease-in-out;
-              transition: transform 0.8s ease-in-out;
-        -webkit-transition: all 2s ease;
-        -moz-transition: all 2s ease;
-        -ms-transition: all 2s ease;
-        transition: all 2s ease;
+        -webkit-transition: -webkit-transform 0.5s ease-in-out;
+              transition: transform 0.5s ease-in-out;
+        -webkit-transition: all 3s ease;
+        -moz-transition: all 3s ease;
+        -ms-transition: all 3s ease;
+        transition: all 3s ease;
     }
     
     #headshot img:hover {
-        transform: rotate(3600deg) scale(3);
-        -webkit-transform: rotate(3400deg)  scale(3);
+        transform: rotate(-3600deg) scale(4);
+        -webkit-transform: rotate(-4400deg)  scale(4);
       }
     
     #name {
