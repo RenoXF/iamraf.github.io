@@ -40,17 +40,17 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address
     }
     
     @keyframes colors {
-        0%   { background: #cc3333; }
-        10%   { background: #cc8533; }
-        20%  { background: #ccc733; }
-        30%   { background: #57cc33; }
-        40%  { background: #33cc4c; }
-        50%   { background: #33c7cc; }
-        60%  { background: #0097fc; }
-        70%   { background: #8533cc; }
-        80%  { background: #c233cc; }
-        90%   { background: #cc3394; }
-        100% { background: #cc3333; }
+        0%   { background: #e83838; }
+        10%   { background: #ee9938; }
+        20%  { background: #e7e139; }
+        30%   { background: #64eb3a; }
+        40%  { background: #3be858; }
+        50%   { background: #38e0e6; }
+        60%  { background: #34a7f5; }
+        70%   { background: #9b38f1; }
+        80%  { background: #e233ee; }
+        90%   { background: #ef3aad; }
+        100% { background: #f33d3d; }
       }
     
     #name h1 {
