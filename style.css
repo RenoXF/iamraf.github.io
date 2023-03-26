@@ -23,7 +23,7 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address
     }
     
     #cv {
-        width: 90%;
+        width: 80%;
         max-width: 800px;
         background: #ffffff;
         margin: 30px auto;
@@ -77,10 +77,10 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address
     }
     
     #headshot img {
-        width: 100%;
+        width: 130%;
         height: auto;
-        -webkit-border-radius: 50px;
-        border-radius: 50px;
+        -webkit-border-radius: 60px;
+        border-radius: 60px;
         -webkit-transition: -webkit-transform 0.5s ease-in-out;
               transition: transform 0.5s ease-in-out;
         -webkit-transition: all 3s ease;
@@ -186,7 +186,7 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address
     
     @media all and (min-width: 602px) and (max-width: 800px) {
         #headshot {
-            display: none;
+            display: inline;
         }
         
         .keySkills {
@@ -204,7 +204,8 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address
         }
         
         #headshot {
-            display: none;
+            display: inline;
+            text-align: center;
         }
         
         #name, #contactDetails {
