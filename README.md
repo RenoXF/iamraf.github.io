@@ -5,6 +5,6 @@
 </p>
 
 ## Note
-better with desktop mode, if you using mobile. you can touch profile picture and see what happened
+better with desktop mode, if you are using mobile. You can touch the profile picture and see what happens
 ## Catatan
 lebih baik menggunakan mode desktop, jika kamu menggunakan ponsel. silahkan sentuh gambar profil dan lihat apa yang terjadi
